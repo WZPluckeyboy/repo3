@@ -10,4 +10,9 @@ public class testGet{
         System.out.println("this is my first demo");
 
     }
+    public void Test(){
+        int i=0;
+        i+=1;
+        System.out.println(i);
+    }
 }
