@@ -14,5 +14,6 @@ public class testGet{
         int i=0;
         i+=1;
         System.out.println(i);
+        System.out.println(i+1);
     }
 }
